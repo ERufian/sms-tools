@@ -8,5 +8,7 @@ workspace/*.wav
 workspace/*/*.pyc
 workspace/*/*.py
 workspace/*/*.wav
+workspace/*/*.pdf
+workspace/*/*.pkl
 software/models_interface/output_sounds/*.wav
 software/transformations_interface/output_sounds/*.wav
